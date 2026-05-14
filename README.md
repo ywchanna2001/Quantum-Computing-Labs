@@ -1,1 +1,1 @@
-# CM4670---Quantum-Computing
+# Quantum-Computing-Labs
